@@ -1,0 +1,13 @@
+#TextoConFondo {
+    background-color: rgba(0, 0, 0, 0.500);
+    display:inline-block;
+}
+#Navegacion {
+    color: black;
+}
+header {
+    background-color: gainsboro;
+}
+footer {
+    background-color: gainsboro;
+}
